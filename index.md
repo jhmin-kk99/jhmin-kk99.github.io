@@ -7,18 +7,18 @@ cover-img: /assets/img/toys-3200969_640.jpg
 
 <br/>
 
-### Skills
-# Strong
-# Knowledgeable
-# ETC
+## Skills
+### Strong
+### Knowledgeable
+### ETC
 
-### Projects
-
-
+## Projects
 
 
 
-### Contact
+
+
+## Contact
 
 ```
 Email: jihongmin99@naver.com 
