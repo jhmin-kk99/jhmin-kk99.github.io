@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Konkuk Univ DMS LAB
-subtitle: Distributed Multimedia Laboratory, Konkuk
+title: 지홍의 놀이터
+subtitle: 즐기는 자가 일류다
 cover-img: /assets/img/server.jpeg
 ---
 
