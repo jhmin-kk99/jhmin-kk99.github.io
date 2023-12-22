@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # [수정필요] 웹페이지 이름
-title: 지홍의 놀이터 
+title: 지홍의 놀이터
 # [수정필요] 간단한 사이트 설명
 description: 즐기는 자가 일류다
 
@@ -11,10 +11,6 @@ author: JIHONG MIN
 # [조건부수정] 네비게이션 바에 포함되는 항목 (명칭 수정, 추가, 삭제 가능)
 # 예를 들어 ETRI 라는 항목을 네비게이션 바에 추가하고 싶은 경우, etri.md 파일 생성 후 ETRI: "etri" 라고 지정.
 navbar-links:
-  Education: "education"
-  Research: "research"
-  People: "people"
-  Publication: "publication"
   Project: "project"
   #Jouranl and Conferences: "jouranl_and_conferences" 추후에 다시 추가 요망
   Information: "information"
@@ -40,7 +36,7 @@ round-avatar: false
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "jswp5580@konkuk.ac.kr"
+  email: "jihongmin99@naver.com"
 #  facebook: seokho.son.korea
 #  github: seokho-son
 #  linkedin: seokho-son
