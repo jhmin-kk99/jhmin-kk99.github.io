@@ -7,9 +7,15 @@ cover-img: /assets/img/toys-3200969_640.jpg
 
 <br/>
 
-### Projects   
-   
-### Stack
+### Skills
+# Strong
+# Knowledgeable
+# ETC
+
+### Projects
+
+
+
 
 
 ### Contact
