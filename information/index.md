@@ -8,6 +8,6 @@ title: Growth Diary
 ## Team project
 
 ## Toy 
-  ### DB indexing
+  - DB indexing
 
 
