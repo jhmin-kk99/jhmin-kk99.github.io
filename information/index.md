@@ -9,7 +9,7 @@ title: Growth Diary
 
 ## Toy
 #### DB
-  - DB indexing
+  - DB 인덱싱
 
 
 
